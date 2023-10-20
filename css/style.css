@@ -270,6 +270,10 @@ h6,
     .serv .header {
         height: 80vh !important;
     }
+
+    .serv .header_content {
+        margin-top: 35px !important;
+    }
 }
 
 .carousel-control-prev,
