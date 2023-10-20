@@ -219,6 +219,10 @@ h6,
     }
 }
 
+.mynav .header {
+    padding-top: 110px;
+}
+
 
 /*** Carousel ***/
 .carousel-caption {
@@ -557,6 +561,14 @@ h6,
 
 .header_content {
     margin-top: 200px;
+}
+
+.serv .header_content {
+    margin-top: 220px;
+}
+
+.serv .header_content_image {
+    margin-top: 20px;
 }
 
 .header_content h2 {
