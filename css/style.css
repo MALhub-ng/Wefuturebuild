@@ -263,6 +263,10 @@ h6,
         height: 120vh !important;
     }
 
+    html {
+        scroll-behavior: smooth;
+    }
+
     .sch_card .rounded {
         height: 130vh !important;
     }
