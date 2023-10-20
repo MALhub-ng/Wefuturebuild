@@ -240,6 +240,32 @@ h6,
         font-size: 30px;
         font-weight: 600 !important;
     }
+
+    .mynav .header {
+        height: 85vh;
+    }
+
+    .navbtn {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .navbtn .sch_btn button{
+        margin-left: -1px !important;
+        margin-top: 10px !important;
+    }
+
+    .exp .rounded {
+        height: 120vh !important;
+    }
+
+    .sch_card .rounded {
+        height: 130vh !important;
+    }
+
+    .serv .header {
+        height: 80vh !important;
+    }
 }
 
 .carousel-control-prev,
@@ -607,7 +633,7 @@ h6,
     }
 
     .exp .rounded{
-        height: 95vh;
+        height: 105vh;
     }
 
     .header_content {
@@ -616,7 +642,7 @@ h6,
     }
 
     .sch_card .rounded{
-        height: 65vh !important;
+        height: 85vh !important;
     }
 
     .header_content h2 {
