@@ -597,6 +597,19 @@ h6,
         height: 70vh;
     }
 
+    .carousel-inner{
+        padding-top: 30px;
+    }
+    
+
+    .sch {
+        margin-bottom: -70px;
+    }
+
+    .exp .rounded{
+        height: 95vh;
+    }
+
     .header_content {
         height: 50vh;
         margin-top: 35px;
